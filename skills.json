@@ -1,0 +1,39 @@
+{
+"Testing_theory":true,
+"Knowledge_of":"SDLC and STLC",
+"Work_with_documentation":true,
+"Practical_exp_in_writing":
+{
+"Test_cases":true,
+"Checklist":true,
+"Bug_reports":true
+},
+"Client_server_architecture":true,
+"HTTP":
+{
+"Knowledge_of_structure":true,
+"Request_methods":"GET POST PUT HEAD DELETE CONNECT PATCH TRACE OPTIONS",
+"Status_codes":"Understanding the difference"
+},
+"JSON_and_XML":"Structure",
+"Postman":"API testing",
+"JavaScript":"Autotests API in Postman",
+"Logs":"Removing and reading from the remote server",
+"Charles":"sniffing http web traffic",
+"DevTools":"Google Chrome and FireFox",
+"Mobile testing":
+{
+"Android Studio":"Practical exp",
+"Charles":"sniffing mobile traffic",
+"ADB":"Practical exp"
+},
+"Jmeter":"Perfomance testing",
+"SQL":"Practical exp in building SQL queries",
+"Postgresql":"Practical exp",
+"Git":
+{
+"GitBash":"Linux Terminal commands",
+"GitHub":"git(clone add commit push branch merge checkout pull)"
+},
+"Great_soft_skills":true
+}
