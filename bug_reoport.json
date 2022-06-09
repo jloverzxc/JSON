@@ -1,1 +1,26 @@
-
+{
+  "ID":1,
+  "Summary":"The product isn't added to the basket if it contains 100 items",
+  "Severity":"Major",
+  "Priority":"Low",
+  "Status":"Open",
+  "Reporter":"Danila Kolbanov",
+  "Environment":"OS Windows 10 Google Chrome v. 101.0.4951.54",
+  "Description":
+  {
+  "Preconditions":
+  {
+  "1":"User authorized on site aliexpress",
+  "2":"100 items have been added to the basket"
+},
+    "STR":
+    {
+    "1":"Choose a product that is not in the basket",
+    "2":"Click add to basket",
+    "3":"Check basket"  
+    },
+    "ER":"The product is added to the basket the quantity of goods is changed",
+    "AR":"The product was not added to the basket"
+},
+  "Attachments":"Screenshot"
+}
